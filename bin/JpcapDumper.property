@@ -1,0 +1,7 @@
+#JpcapDumper
+#Fri Mar 20 22:56:28 IST 2009
+WinX=-4
+TableView=TCP\:Source Port,TCP\:Destination Port,Packet Information\:Captured Time,TCP\:Ack Number,HTTP\:Header,TCP\:Sequence Number,HTTP\:Method
+WinHeight=746
+WinWidth=1032
+WinY=-4
