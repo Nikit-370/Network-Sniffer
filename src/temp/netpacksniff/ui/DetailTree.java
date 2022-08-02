@@ -1,10 +1,3 @@
-/*Author Aditya
- * 
- * 
- * 
- */
-
-
 package netpacksniff.ui;
 import jpcap.packet.*;
 import java.awt.*;
