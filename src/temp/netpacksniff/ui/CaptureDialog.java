@@ -1,6 +1,4 @@
-/* Author Aditya
- * 
- * 
+/*
  * This class displays a window that is displayed once we start the project.It asks for the capturing device
  * i.e the network interface card.Puts it in promiscuous mode and also asks the maximum packet capture size. 
  * Also asks the capture filters.
