@@ -1,10 +1,3 @@
-/*Author Aditya
- * 
- * 
- * 
- */
-
-
 package netpacksniff.ui;
 import java.awt.*;
 import javax.swing.*;
