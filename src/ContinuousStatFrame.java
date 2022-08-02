@@ -1,6 +1,4 @@
-/*Author Aditya
- * 
- * 
+/*
  * This class shows the statistics in the form of graphs and similar to the cumulative statistics frame
  */
 
