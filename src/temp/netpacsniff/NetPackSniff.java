@@ -1,6 +1,4 @@
-/* 
- * Author Aditya
- * 
+/*
  * This is the main class that loads the packetsniffer and also loads all the user 
  * interfaces like windows,graphs etc.This class contains the main method of the project.
  *  
