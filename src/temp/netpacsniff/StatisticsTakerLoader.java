@@ -1,8 +1,3 @@
-/*Author Aditya
- * 
- * 
- */
-
 package netpacsniff;
 import java.util.*;
 
