@@ -1,6 +1,3 @@
-/*Author Aditya
- * 
- */
 package netpacksniff.analyzer;
 import jpcap.packet.*;
 
