@@ -1,6 +1,3 @@
-/*Author Aditya
- * 
- */
 package netpacsniff;
 
 import java.io.File;
