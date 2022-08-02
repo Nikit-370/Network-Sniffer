@@ -1,6 +1,4 @@
-/*Author Aditya
- * 
- * 
+/* 
  * This class shows the cumlative stastics of the frames that are captured like no of packets,the packet size
  * the average packet size etc in numbers 
  */
